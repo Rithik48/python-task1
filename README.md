@@ -1,2 +1,2 @@
-InfoaidTech-Intern-Pinaki-TO-DO-LIST-using-PYTHON-Task-2
+CODSOFT-INTERN-RITHIK-TO-DO-LIST-using-PYTHON-Task1
 TO-DO-LIST-using-PYTHON
